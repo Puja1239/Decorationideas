@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Event Planning Portfolio</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About Us</a></li>
+          <li><a href="#">Services</a></li>
+          <li><a href="#">Portfolio</a></li>
+          <li><a href="#">Contact Us</a></li>
+        </ul>
+      </nav>
+      <h1>Event Planning Portfolio</h1>
+      <p>We make your events unforgettable</p>
+    </header>
+    <main>
+      <section>
+        <h2>Featured Events</h2>
+        <div class="event-list">
+          <div class="event-item">
+            <img src="event1.jpg" alt="Event 1">
+            <h3>Event 1</h3>
+          </div>
+          <div class="event-item">
+            <img src="event2.jpg" alt="Event 2">
+            <h3>Event 2</h3>
+          </div>
+          <div class="event-item">
+            <img src="event3.jpg" alt="Event 3">
+            <h3>Event 3</h3>
+          </div>
+        </div>
+      </section>
+      <section>
+        <h2>About Us</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed suscipit justo vel dolor aliquam, quis ullamcorper felis consequat. Aenean sodales neque at nisi laoreet, sit amet dapibus magna imperdiet. Proin vel nisl vel sapien finibus consectetur. Quisque vulputate, ipsum eget tincidunt interdum, sem enim mattis ipsum, non vulputate eros magna vel ipsum. Ut mollis velit et libero pellentesque faucibus.</p>
+      </section>
+    </main>
+    <footer>
+      <p>Copyright © 2023 Event Planning Portfolio</p>
+    </footer>
+  </body>
+</html>
